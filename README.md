@@ -15,7 +15,7 @@ I am a passionate **Software Engineer** with a strong interest in **Machine Lear
 - ⚽ In my free time, I enjoy watching and playing **football**.
   
 ### 🛠️ Tech Stack
-- Programming Languages: **Python, Java, JavaScript, C++, HTML, CSS, Angular, SQL**
+- Programming Languages: **Java, Python, JavaScript, C++, HTML, CSS, Angular, SQL**
 - Tools: **Google Colab, Spyder IDE, GitHub, LinkedIn, Visual Studio Code**
 - Machine Learning: **Linear Regression, Logistic Regression, Gradient Descent, Neural Networks**
 - Software: **Data Structures, Dynamic Programming, Algorithms, Object Oriented Programming, Databases, Operating Systems**
