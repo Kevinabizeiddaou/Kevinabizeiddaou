@@ -6,17 +6,17 @@
 --->
 ### 👨‍💻 About Me
 
-I am a passionate **Software Engineer** with a strong interest in **Machine Learning** and **Data Science**. I love to solve problems and learn new things in the tech world.
+I am a passionate **Software Engineer** with a strong interest in **Machine Learning** and **Agentic Models**. I love to solve problems and learn new things in the tech world.
 
-- 💼 Currently pursuing a **Software Engineering Internship**.
-- 📚 Learning about **Machine Learning** and working on projects with **Linear Regression** and **Logistic Regression**.
-- 🎓 Studying **Software Engineeering** at the **American University of Beirut**.
-- 📚 Currently exploring the intersection of **Data Science** and **Software Engineering** through research and internships.
-- ⚽ In my free time, I enjoy watching and playing **football**.
+- 💼 Currently pursuing a **Software Engineering Degree** at the **American University of Beirut**.
+- 📚 Learning about **Agentic Systems** and working on projects with **LLMs**, **LangChain**, and **LangGraph**.
+- 📚 Currently exploring the intersection of **Artificial Intelligence** and **Software Engineering** through research and internships.
+- ⚽ In my free time, I enjoy watching and playing sports.
   
 ### 🛠️ Tech Stack
-- Programming Languages: **Java, Python, JavaScript, C++, HTML, CSS, Angular, SQL**
-- Tools: **Google Colab, Spyder IDE, GitHub, LinkedIn, Visual Studio Code**
+- Programming Languages: **Python, Java, JavaScript, HTML, CSS, SQL, C++**
+- Tools: **Visual Studio Code, Git, LinkedIn, PostgreSQL**
+- Agentic Systems: **LLM Integration (OpenAI, Anthropic), Function Calling, Tool Use, Retrieval-Augmented Generation (RAG), LangChain, LangGraph**
 - Machine Learning: **Linear Regression, Logistic Regression, Gradient Descent, Neural Networks**
 - Software: **Data Structures, Dynamic Programming, Algorithms, Object Oriented Programming, Databases, Operating Systems**
 
